@@ -4,21 +4,11 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-<a href="https://www.linkedin.com/in/swapnildeore/" target="_blank">
-  <img src="https://github.com/Swapppyy/Swapppyy/blob/main/linkedin.png" alt="LinkedIn" width="32px">
-</a>
+[<img align="left" alt="LinkedIn" width="32px" src="https://github.com/Swapppyy/Swapppyy/blob/main/linkedin.png" />](https://www.linkedin.com/in/swapnildeore/)
+[<img align="left" alt="GitHub" width="32px" src="https://github.com/Swapppyy/Swapppyy/blob/main/gitic.png" />](https://github.com/Swapppyy/)
+[<img align="left" alt="My Portfolio" width="32px" src="https://github.com/Swapppyy/Swapppyy/blob/main/pf.png" />](https://example.com/)
+[<img align="left" alt="Outlook" width="32px" src="https://github.com/Swapppyy/Swapppyy/blob/main/outlook.png" />](mailto:sdeore@syr.edu)
 
-<a href="https://github.com/Swapppyy/" target="_blank">
-  <img src="https://github.com/Swapppyy/Swapppyy/blob/main/gitic.png" alt="GitHub" width="32px">
-</a>
-
-<a href="https://example.com/" target="_blank">
-  <img src="https://github.com/Swapppyy/Swapppyy/blob/main/pf.png" alt="My Portfolio" width="32px">
-</a>
-
-<a href="mailto:sdeore@syr.edu" target="_blank">
-  <img src="https://github.com/Swapppyy/Swapppyy/blob/main/outlook.png" alt="Outlook" width="32px">
-</a>
 
 
 
