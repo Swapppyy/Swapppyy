@@ -4,16 +4,11 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
+[![LinkedIn](https://example.com/linkedin.png)](https://www.linkedin.com/in/swapnildeore/){:target="_blank"}
+[![GitHub](https://example.com/github.png)](https://github.com/Swapppyy/){:target="_blank"}
+[![My Portfolio](https://example.com/portfolio.png)](https://example.com/){:target="_blank"}
+[![Outlook](https://example.com/outlook.png)](mailto:sdeore@syr.edu){:target="_blank"}
 
-[<img align="left" alt="LinkedIn" width="32px" src="https://github.com/Swapppyy/Swapppyy/blob/main/linkedin.png" />](https://www.linkedin.com/in/swapnildeore/){:target="_blank"}
-
-[<img align="left" alt="GitHub" width="32px" src="https://github.com/Swapppyy/Swapppyy/blob/main/gitic.png" />](https://github.com/Swapppyy/){:target="_blank"}
-
-[<img align="left" alt="My Portfolio" width="32px" src="https://github.com/Swapppyy/Swapppyy/blob/main/pf.png" />](https://example.com/){:target="_blank"}
-
-[<img align="left" alt="Outlook" width="32px" src="https://github.com/Swapppyy/Swapppyy/blob/main/outlook.png" />](mailto:sdeore@syr.edu){:target="_blank"}
-
-[<img align="left" alt="Hackerrank" width="32px" src="https://github.com/Swapppyy/Swapppyy/blob/main/hackerrank.png" />](https://www.hackerrank.com/swap_deo15){:target="_blank"}
 
 <br>
 <br>
