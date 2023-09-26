@@ -9,7 +9,7 @@ You can use the website to generate badges: https://shields.io/
 [<img align="left" alt="GitHub" width="32px" src="https://github.com/Swapppyy/Swapppyy/blob/main/Gitic.png" />](https://github.com/Swapppyy/)
 [<img align="left" alt="My Portfolio" width="32px" src="https://github.com/Swapppyy/Swapppyy/blob/main/pf.png" />](https://example.com/)
 [<img align="left" alt="Outlook" width="32px" src="https://github.com/Swapppyy/Swapppyy/blob/main/outlook.png" />](mailto:sdeore@syr.edu)
-[<img align="left" alt="Hackerrank" width="32px" src="https://github.com/Swapppyy/Swapppyy/blob/main/hackr.png" />](https://www.hackerrank.com/swap_deo15/)
+[<img align="left" alt="Hackerrank" width="32px" src="https://github.com/Swapppyy/Swapppyy/blob/main/hacr.png" />](https://www.hackerrank.com/swap_deo15/)
 
 
 
