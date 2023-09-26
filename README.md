@@ -4,10 +4,22 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-[![LinkedIn](https://example.com/linkedin.png)](https://www.linkedin.com/in/swapnildeore/){:target="_blank"}
-[![GitHub](https://example.com/github.png)](https://github.com/Swapppyy/){:target="_blank"}
-[![My Portfolio](https://example.com/portfolio.png)](https://example.com/){:target="_blank"}
-[![Outlook](https://example.com/outlook.png)](mailto:sdeore@syr.edu){:target="_blank"}
+<a href="https://www.linkedin.com/in/swapnildeore/" target="_blank">
+  <img src="https://github.com/Swapppyy/Swapppyy/blob/main/linkedin.png" alt="LinkedIn" width="32px">
+</a>
+
+<a href="https://github.com/Swapppyy/" target="_blank">
+  <img src="https://github.com/Swapppyy/Swapppyy/blob/main/gitic.png" alt="GitHub" width="32px">
+</a>
+
+<a href="https://example.com/" target="_blank">
+  <img src="https://github.com/Swapppyy/Swapppyy/blob/main/pf.png" alt="My Portfolio" width="32px">
+</a>
+
+<a href="mailto:sdeore@syr.edu" target="_blank">
+  <img src="https://github.com/Swapppyy/Swapppyy/blob/main/outlook.png" alt="Outlook" width="32px">
+</a>
+
 
 
 <br>
