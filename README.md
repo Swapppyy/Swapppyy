@@ -7,7 +7,7 @@ You can use the website to generate badges: https://shields.io/
 
 [<img align="left" alt="LinkedIn" width="25px" src="https://github.com/Swapppyy/Swapppyy/blob/main/linkedin.png" />](https://www.linkedin.com/in/swapnildeore/)
 [<img align="left" alt="GitHub" width="25px" src="https://github.com/Swapppyy/Swapppyy/blob/main/Gitic.png" />](https://github.com/Swapppyy/)
-[<img align="left" alt="My Portfolio" width="25px" src="https://github.com/Swapppyy/Swapppyy/blob/main/pf.png" />](https://example.com/)
+[<img align="left" alt="My Portfolio" width="25px" src="https://github.com/Swapppyy/Swapppyy/blob/main/pf.png" />](https://swapppyy.github.io//)
 [<img align="left" alt="Outlook" width="25px" src="https://github.com/Swapppyy/Swapppyy/blob/main/outlook.png" />](mailto:sdeore@syr.edu)
 [<img align="left" alt="Hackerrank" width="25px" src="https://github.com/Swapppyy/Swapppyy/blob/main/hack.png" />](https://www.hackerrank.com/swap_deo15/)
 
