@@ -5,10 +5,11 @@
 You can use the website to generate badges: https://shields.io/
 -->
 <a href="https://swapppyy.github.io/">
-    <img src="https://github.com/Swapppyy/Swapppyy/blob/main/Port_icon.png" alt="My Portfolio" width="50" height="50">
+    <img src="https://github.com/Swapppyy/Swapppyy/blob/main/Port_icon.png" alt="My Portfolio" width="30" height="30">
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/swapnildeore/">
-    <img src="https://github.com/Swapppyy/Swapppyy/blob/main/Linked_in_icon.png" alt="My Portfolio" width="50" height="50">
+    <img src="https://github.com/Swapppyy/Swapppyy/blob/main/Linked_in_icon.png" alt="My Portfolio" width="30" height="30">
 </a>
 
 <br>
