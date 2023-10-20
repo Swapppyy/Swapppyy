@@ -4,7 +4,7 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-[![My Portfolio](https://img.shields.io/badge/Portfolio-Your Portfolio Link-<COLOR>?style=for-the-badge)](https://www.your-portfolio-link.com)
+<a href="https://swapppyy.github.io/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="My Portfolio" width="150" ></a>
 
 
 <br>
