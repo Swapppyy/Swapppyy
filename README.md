@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Swapnil Deore, a Data Analyst :bar_chart:
+## Hi, I'm Swapnil, a Data Analyst :bar_chart:
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
