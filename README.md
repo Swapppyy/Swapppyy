@@ -9,10 +9,8 @@ You can use the website to generate badges: https://shields.io/
 
 
 <br>
-<br>
 
 <!-- Talking about you -->
-**Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
 
