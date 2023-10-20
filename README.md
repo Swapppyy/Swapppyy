@@ -8,6 +8,8 @@ You can use the website to generate badges: https://shields.io/
     <img src="https://github.com/Swapppyy/Swapppyy/blob/main/Portfolio_image.png" alt="My Portfolio" width="400" height="150">
 </a>
 
+
+<br>
 <br>
 
 <!-- Talking about you -->
