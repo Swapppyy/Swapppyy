@@ -6,8 +6,6 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 
-
-<br>
 <br>
 
 <!-- Talking about you -->
