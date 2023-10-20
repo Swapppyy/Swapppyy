@@ -4,8 +4,7 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-[![My Portfolio](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)](https://www.google.com/analytics/)
-
+[![My Portfolio](https://img.shields.io/badge/Portfolio-Your Portfolio Link-<COLOR>?style=for-the-badge)](https://www.your-portfolio-link.com)
 
 
 <br>
