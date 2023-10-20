@@ -5,7 +5,7 @@
 You can use the website to generate badges: https://shields.io/
 -->
 <a href="https://swapppyy.github.io/">
-    <img src="https://github.com/Swapppyy/Swapppyy/blob/main/Port_icon.png" alt="My Portfolio" width="30" height="30">
+    <img src="https://github.com/Swapppyy/Swapppyy/blob/main/Port_icon.png" alt="My Portfolio" width="35" height="35">
 </a>
 &nbsp;
 
@@ -26,14 +26,14 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 
 - 👨🏽‍💻 I’m currently a graduate student at Syracuse University.
-- 🧑 I'm a meticulous and passionate data professional with 2 years of experience in the IT Industry.
+- 🧑 I'm a passionate data professional with 2 years of experience in the IT Industry.
 - 🎓 **Master of Science (MS)** in Information Systems, School of Information studies (iSchool)
 - 📊 Passionate about all things in **Data Analytics, Data Science and Data Engineering**
 - 💪🏽 Skilled in the following technical skills:
   * **Programming Language:** Python (pandas, numpy, matplotlib, seaborn, plotly, streamlit, scikit-learn, beautifulsoup)
   * **RDBMS & Database:** MySQL, MongoDB
   * **BI & Data Visualization Tools:** Power BI, Tableau
-  * **Other:** Git, Linux Bash, Google Sheets, Microsoft Excel, Jira
+  * **Other:** Git, Linux Bash, Google Sheets, Microsoft Excel, Jira, Visual Studio Code, Jupyter Notebook
 - 💬 **Ask me about anything**, I am happy to help
 - 📫 How to reach me: **sdeore@syr.edu**
 
