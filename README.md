@@ -5,7 +5,7 @@
 You can use the website to generate badges: https://shields.io/
 -->
 <a href="https://swapppyy.github.io/">
-    <img src="https://github.com/Swapppyy/Swapppyy/blob/main/Port_icon.png" alt="My Portfolio" width="200" height="200">
+    <img src="https://github.com/Swapppyy/Swapppyy/blob/main/Port_icon.png" alt="My Portfolio" width="50" height="50">
 </a>
 
 <br>
