@@ -4,8 +4,7 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-<img src="https://github.com/Swapppyy/Swapppyy/blob/main/portfolio.png" alt="Portfolio Image" width="100" height="50">
-Check out my full portfolio [here](https://your-portfolio-url.com).
+[<img src="https://github.com/Swapppyy/Swapppyy/blob/main/portfolio.png" alt="Portfolio Image" width="10" height="5">](https://your-portfolio-url.com)
 
 <br>
 <br>
