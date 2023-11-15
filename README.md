@@ -1,15 +1,29 @@
-<!-- Your title -->
-## Hi, I'm Swapnil, a Data Analyst :bar_chart:
+<div align="center">
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
+# Hi, I'm Swapnil, a Data Analyst :bar_chart:
+
+<!-- 
+Good references:
+- Shield details: https://shields.io/#your-badge
+- Good Badges Repo: https://github.com/alexandresanlim/Badges4-README.md-Profile
+- Another good Badges Repo: https://github.com/Ileriayo/markdown-badges 
 -->
-[<img src="https://github.com/Swapppyy/Swapppyy/blob/main/portfolio.png" alt="Portfolio Image" width="10" height="5">](https://your-portfolio-url.com)
 
-<br>
-<br>
+[![My Website][shield-home]][website]
+[![LinkedIn][shield-linkedin]][linkedin]
+[![GitHub][shield-github]][github]
 
-<!-- Talking about you -->
+[website]: https://your-portfolio-website.com
+[linkedin]: https://www.linkedin.com/in/swapnildeore/
+[github]: https://github.com/Swapppyy
+
+[shield-home]: https://img.shields.io/static/v1?style=flat&label=+&color=gainsboro&logoColor=white&labelColor=grey&message=Website&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+SG9tZTwvdGl0bGU+PHBhdGggc3R5bGU9ImZpbGw6d2hpdGUiIGQ9Ik0yMy4yIDEwLjUgMjEgOC4zVjNjMC0uOC0uNy0xLjUtMS41LTEuNUgxOGMtLjggMC0xLjUuNy0xLjUgMS41di44bC0zLTNDMTMuMS40IDEyLjcgMCAxMiAwcy0xIC40LTEuNS44TC44IDEwLjVjLS40LjUtLjguOC0uOCAxLjUgMCAuOC42IDEuNSAxLjUgMS41SDN2OWMwIC44LjcgMS41IDEuNSAxLjVIOXYtNy41YzAtLjguNy0xLjUgMS41LTEuNWgzYy44IDAgMS41LjcgMS41IDEuNVYyNGg0LjVjLjggMCAxLjUtLjcgMS41LTEuNXYtOWgxLjVjLjkgMCAxLjUtLjcgMS41LTEuNSAwLS43LS40LTEtLjgtMS41WiIvPjwvc3ZnPg==
+[shield-linkedin]: https://img.shields.io/static/v1?style=flat&label=+&color=gainsboro&logoColor=white&labelColor=grey&message=LinkedIn&logo=linkedin
+[shield-github]: https://img.shields.io/static/v1?style=flat&label=+&color=gainsboro&logoColor=white&labelColor=grey&message=GitHub&logo=github
+
+
+
+</div>
 
 <!-- Any image aligned to the right. Beware the width -->
 
