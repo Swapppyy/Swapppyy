@@ -13,7 +13,7 @@ Good references:
 [![LinkedIn][shield-linkedin]][linkedin]
 [![GitHub][shield-github]][github]
 
-[website]: https://your-portfolio-website.com
+[website]: https://swapppyy.github.io/
 [linkedin]: https://www.linkedin.com/in/swapnildeore/
 [github]: https://github.com/Swapppyy
 
@@ -50,7 +50,7 @@ Good references:
   <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" alt="msexcel" width="40" height="40"/>
 </a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.tableau.com/sites/default/files/2022-04/TableauLogo_RGB.png" alt="tableau" width="40" height="40"/>
+  <img src="https://www.tableau.com/sites/default/files/2022-04/TableauLogo_RGB.png" alt="tableau" width="100" height="40"/>
 </a>
 
  
