@@ -12,18 +12,14 @@ Good references:
 [![My Website][shield-home]][website]
 [![LinkedIn][shield-linkedin]][linkedin]
 [![GitHub][shield-github]][github]
-[![Dashboards][shield-dashboard]][Dashboard]
 
 [website]: https://swapppyy.github.io/
 [linkedin]: https://www.linkedin.com/in/swapnildeore/
 [github]: https://github.com/Swapppyy
-[Dashboards]: https://www.novypro.com/profile_projects/swapnildeore
 
 [shield-home]: https://img.shields.io/static/v1?style=flat&label=+&color=gainsboro&logoColor=white&labelColor=grey&message=Website&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+SG9tZTwvdGl0bGU+PHBhdGggc3R5bGU9ImZpbGw6d2hpdGUiIGQ9Ik0yMy4yIDEwLjUgMjEgOC4zVjNjMC0uOC0uNy0xLjUtMS41LTEuNUgxOGMtLjggMC0xLjUuNy0xLjUgMS41di44bC0zLTNDMTMuMS40IDEyLjcgMCAxMiAwcy0xIC40LTEuNS44TC44IDEwLjVjLS40LjUtLjguOC0uOCAxLjUgMCAuOC42IDEuNSAxLjUgMS41SDN2OWMwIC44LjcgMS41IDEuNSAxLjVIOXYtNy41YzAtLjguNy0xLjUgMS41LTEuNWgzYy44IDAgMS41LjcgMS41IDEuNVYyNGg0LjVjLjggMCAxLjUtLjcgMS41LTEuNXYtOWgxLjVjLjkgMCAxLjUtLjcgMS41LTEuNSAwLS43LS40LTEtLjgtMS41WiIvPjwvc3ZnPg==
 [shield-linkedin]: https://img.shields.io/static/v1?style=flat&label=+&color=gainsboro&logoColor=white&labelColor=grey&message=LinkedIn&logo=linkedin
 [shield-github]: https://img.shields.io/static/v1?style=flat&label=+&color=gainsboro&logoColor=white&labelColor=grey&message=GitHub&logo=github
-
-[shield-dashboard]: https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png
 
 </div>
 
