@@ -50,7 +50,7 @@ Good references:
   <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" alt="msexcel" width="40" height="40"/>
 </a>
 <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer">
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="tableau" width="140" height="40"/>
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="tableau" width="40" height="40"/>
 </a>
 
  
