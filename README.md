@@ -32,10 +32,11 @@ Good references:
 - 🎓 **Master of Science (MS)** in Information Systems, School of Information studies (iSchool)
 - 📊 Passionate about all things in **Data Analytics, Data Science and Data Engineering**
 - 💪🏽 Skilled in the following technical skills:
-  * **Programming Language:** Python (pandas, numpy, matplotlib, seaborn, plotly, streamlit, scikit-learn, beautifulsoup)
-  * **RDBMS & Database:** MySQL, MongoDB
-  * **BI & Data Visualization Tools:** Power BI, Tableau
-  * **Other:** Git, Linux Bash, Google Sheets, Microsoft Excel, Jira, Visual Studio Code, Jupyter Notebook
+  * **Data Analysis:** SQL, Microsoft Excel, Python (Numpy, Pandas), R
+  * **Data Visualization:** Power BI, Tableau, Microsoft Excel, Python (Matplotlib, Seaborn), QuickSight, Visio
+  * **Databases:** MySQL, PostgreSQL, MongoDB, SQL Server, Amazon RDS
+  * **Statistical Analysis Techniques:** Time Series Analysis, Regression, A/B testing, Data Research, Data Extraction, Data Transformation, 
+Data Cleaning, Confidence Interval, Exploratory Data Analysis, Data Modeling, ETL, Statistics
 - 💬 **Ask me about anything**, I am happy to help
 - 📫 How to reach me: **sdeore@syr.edu**
 
