@@ -49,8 +49,8 @@ Good references:
  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
   <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" alt="msexcel" width="40" height="40"/>
 </a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.tableau.com/sites/default/files/2022-04/TableauLogo_RGB.png" alt="tableau" width="140" height="40"/>
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer">
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="tableau" width="140" height="40"/>
 </a>
 
  
