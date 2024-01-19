@@ -56,7 +56,7 @@ Data Cleaning, Confidence Interval, Exploratory Data Analysis, Data Modeling, ET
   <br />
   
  
- 
+ <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
 
 
 
