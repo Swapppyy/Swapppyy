@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Swapnil, a Data Analyst :bar_chart:
+# Hi, I'm Swapnil, Data Analyst :bar_chart:
 
 <!-- 
 Good references:
