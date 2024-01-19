@@ -52,11 +52,14 @@ Data Cleaning, Confidence Interval, Exploratory Data Analysis, Data Modeling, ET
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
   
-  
   <br />
   
  
- <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+ 
 
 
 
