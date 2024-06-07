@@ -36,7 +36,7 @@ Good references:
   * **Statistical Analysis Techniques:** Time Series Analysis, Regression, A/B testing, Data Research, Data Extraction, Data Transformation, 
 Data Cleaning, Confidence Interval, Exploratory Data Analysis, Data Modeling, ETL, Statistics
 - 💬 **Ask me about anything**, I am happy to help
-- 📫 How to reach me: **sdeore@syr.edu**
+- 📫 How to reach me: **deoreswapnil@outlook.com**
 
 <h4 align="left">Languages and Tools:</h4>
 
