@@ -25,17 +25,13 @@ Good references:
 
 <!-- Any image aligned to the right. Beware the width -->
 
-- 👨🏽‍💻 I’m currently a graduate student at Syracuse University.
-- 🧑 I'm a passionate data professional with 2 years of experience in the IT Industry.
-- 🎓 **Master of Science (MS)** in Information Systems, School of Information studies (iSchool)
+- 👨🏽‍💻 I graduated from Syracuse University with Master's Degree in Data Science.
+- 🧑 I'm a passionate data professional with 3 years of experience in the tech Industry.
 - 📊 Passionate about all things in **Data Analytics, Data Science and Data Engineering**
 - 💪🏽 Skilled in the following technical skills:
-  * **Data Analysis:** SQL, Microsoft Excel, Python (Numpy, Pandas), R
-  * **Data Visualization:** Power BI, Tableau, Microsoft Excel, Python (Matplotlib, Seaborn), QuickSight, Visio
-  * **Databases:** MySQL, PostgreSQL, MongoDB, SQL Server, Amazon RDS
-  * **Statistical Analysis Techniques:** Time Series Analysis, Regression, A/B testing, Data Research, Data Extraction, Data Transformation, 
-Data Cleaning, Confidence Interval, Exploratory Data Analysis, Data Modeling, ETL, Statistics
-- 💬 **Ask me about anything**, I am happy to help
+  * **Programming and Databases:** SQL, Python, R, MySQL, PostgreSQL, SAP, CRM, Linux/Unix, AWS, Azure, Databricks, Snowflake, ETL, Natural Language Processing (NLP), Generative AI, Langchain, Web Scraping. 
+  * **Tools/Libraries:** Tableau, MS Excel, Power BI, Looker, Alteryx, Qlik, Gephi, NumPy, Pandas, Seaborn, Matplotlib, Talkwalker, Meltwater, Demographics Pro, Tagger, Helixa, Resonate, OpenAI, Gemini, Hugging Face, Claude, Selenium, BeautifulSoup.
+- 💬 I'm always eager to explore new opportunities and collaborations. If you're interested in joining forces on a data-driven project, don't hesitate to get in touch with me via email (deoreswapnil@outlook.com).
 - 📫 How to reach me: **deoreswapnil@outlook.com**
 
 <h4 align="left">Languages and Tools:</h4>
