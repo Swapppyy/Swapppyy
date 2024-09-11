@@ -1,5 +1,5 @@
 <a href="https://swapppyy.github.io/">
-  <img src="https://github.com/Swapppyy/Swapppyy/blob/main/bannerr.jpg" alt="MasterHead" width="800" height="250"/>
+  <img src="https://github.com/Swapppyy/Swapppyy/blob/main/githubbanner.png" alt="MasterHead" width="800" height="250"/>
 </a>
 
 <h1 align="center">Hi 👋, I'm Swapnil Deore</h1>
