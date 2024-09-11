@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Swapppyy/Swapppyy/blob/main/banner.jpg)
+![MasterHead](https://github.com/Swapppyy/Swapppyy/blob/main/bannerr.jpg)
 <h1 align="center">Hi 👋, I'm Swapnil Deore</h1>
 <h3 align="center">A passionate data scientist</h3>
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/Swapppyy/Swapppyy/main/picture.gif" />
