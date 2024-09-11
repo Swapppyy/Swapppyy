@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![MasterHead](https://github.com/Swapppyy/Swapppyy/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Swapnil Deore</h1>
 <h3 align="center">A passionate data scientist</h3>
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/Swapppyy/Swapppyy/main/picture.gif" />
@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as a **Data Scientist**
 
-- 🌱 I’m currently learning **more about Artificial Intelligence and prompt engineering.**
+- 🌱 I’m currently learning **more about Artificial Intelligence models**
 
 - 👯 I’m looking to collaborate for **exciting new growth opportunities**
 
