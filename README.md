@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swapnil Deore</h1>
 <h3 align="center">A passionate data scientist</h3>
-(img align="right" alt="Coding" width="400" src="picture.gif")
+(img align="right" alt="Coding" width="400" src="https://github.com/Swapppyy/Swapppyy/blob/main/picture.gif")
 
 - 🔭 I’m currently working as a **Data Scientist**
 
