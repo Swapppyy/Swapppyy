@@ -1,66 +1,24 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Swapnil Deore</h1>
+<h3 align="center">A passionate data scientist</h3>
 
-# Hi, I'm Swapnil 👋 
+- 🔭 I’m currently working as a **Data Scientist**
 
-<!-- 
-Good references:
-- Shield details: https://shields.io/#your-badge
-- Good Badges Repo: https://github.com/alexandresanlim/Badges4-README.md-Profile
-- Another good Badges Repo: https://github.com/Ileriayo/markdown-badges 
--->
+- 🌱 I’m currently learning **more about Artificial Intelligence and prompt engineering.**
 
-[![My Website][shield-home]][website]
-[![LinkedIn][shield-linkedin]][linkedin]
+- 👯 I’m looking to collaborate for **exciting new growth opportunities**
 
-[website]: https://swapppyy.github.io/
-[linkedin]: https://www.linkedin.com/in/swapnildeore/
+- 🤝 Know more about my background/skills [[Here]](https://swapppyy.github.io/)
 
-[shield-home]: https://img.shields.io/static/v1?style=flat&label=+&color=gainsboro&logoColor=white&labelColor=grey&message=Website&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+SG9tZTwvdGl0bGU+PHBhdGggc3R5bGU9ImZpbGw6d2hpdGUiIGQ9Ik0yMy4yIDEwLjUgMjEgOC4zVjNjMC0uOC0uNy0xLjUtMS41LTEuNUgxOGMtLjggMC0xLjUuNy0xLjUgMS41di44bC0zLTNDMTMuMS40IDEyLjcgMCAxMiAwcy0xIC40LTEuNS44TC44IDEwLjVjLS40LjUtLjguOC0uOCAxLjUgMCAuOC42IDEuNSAxLjUgMS41SDN2OWMwIC44LjcgMS41IDEuNSAxLjVIOXYtNy41YzAtLjguNy0xLjUgMS41LTEuNWgzYy44IDAgMS41LjcgMS41IDEuNVYyNGg0LjVjLjggMCAxLjUtLjcgMS41LTEuNXYtOWgxLjVjLjkgMCAxLjUtLjcgMS41LTEuNSAwLS43LS40LTEtLjgtMS41WiIvPjwvc3ZnPg==
-[shield-linkedin]: https://img.shields.io/static/v1?style=flat&label=+&color=gainsboro&logoColor=white&labelColor=grey&message=LinkedIn&logo=linkedin
-[shield-github]: https://img.shields.io/static/v1?style=flat&label=+&color=gainsboro&logoColor=white&labelColor=grey&message=GitHub&logo=github
+- 📫 How to reach me **deoreswapnil@outlook.com**
 
-</div>
+- 📄 Link to my Resume [[Here]](https://github.com/Swapppyy/Resume/blob/main/Swapnil_Deore_Resume.pdf)
 
-<!-- Any image aligned to the right. Beware the width -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/swapn1ll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swapn1ll" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/swapnildeore/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnildeore/" height="30" width="40" /></a>
+<a href="/https://swapppyy.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://swapppyy.github.io/" height="30" width="40" /></a>
+</p>
 
-- 👨🏽‍💻 I graduated from Syracuse University with Master's Degree in Data Science.
-- 🧑 I'm a passionate data professional with 3 years of experience in the tech Industry.
-- 📊 Passionate about all things in **Data Analytics, Data Science and Data Engineering**
-- 💪🏽 Skilled in the following technical skills:
-  * **Programming and Databases:** SQL, Python, R, MySQL, PostgreSQL, SAP, CRM, Linux/Unix, AWS, Azure, Databricks, Snowflake, ETL, Natural Language Processing (NLP), Generative AI, Langchain, Web Scraping. 
-  * **Tools/Libraries:** Tableau, MS Excel, Power BI, Looker, Alteryx, Qlik, Gephi, NumPy, Pandas, Seaborn, Matplotlib, Talkwalker, Meltwater, Demographics Pro, Tagger, Helixa, Resonate, OpenAI, Gemini, Hugging Face, Claude, Selenium, BeautifulSoup.
-- 💬 I'm always eager to explore new opportunities and collaborations. If you're interested in joining forces on a data-driven project, don't hesitate to get in touch with me via email (deoreswapnil@outlook.com).
-
-<h4 align="left">Languages and Tools:</h4>
-
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  
-<br />
-  
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-  
-  <br />
-  
- 
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
- 
-
-
-
-
-
-
-
-
-
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
