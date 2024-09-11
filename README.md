@@ -1,6 +1,4 @@
-<a href="https://swapppyy.github.io/">
-  <img src="https://github.com/Swapppyy/Swapppyy/blob/main/githubbanner.png" alt="MasterHead" width="800" height="250"/>
-</a>
+![MasterHead](https://drjplopes.com/media/BlogBanners/Hello-World_Banner.png)
 
 <h1 align="center">Hi 👋, I'm Swapnil Deore</h1>
 <h3 align="center">A passionate data scientist</h3>
