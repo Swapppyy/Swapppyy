@@ -1,13 +1,8 @@
 ![MasterHead](https://drjplopes.com/media/BlogBanners/Hello-World_Banner.png)
 
 <h1 align="center">Hi 👋, I'm Swapnil Deore</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">A passionate Data professional</h3>
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/Swapppyy/Swapppyy/main/picture.gif" />
-
-
-- 🔭 I’m currently working as a **Data Scientist**
-
-- 🌱 I’m currently learning **more about AI/ML**
 
 - 👯 I’m looking to collaborate for **exciting new growth opportunities**
 
