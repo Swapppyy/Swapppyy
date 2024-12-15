@@ -1,8 +1,10 @@
 ![MasterHead](https://drjplopes.com/media/BlogBanners/Hello-World_Banner.png)
 
 <h1 align="center">Hi 👋, I'm Swapnil Deore</h1>
-<h3 align="center">A passionate Data professional</h3>
+<h3 align="center">Data professional</h3>
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/Swapppyy/Swapppyy/main/picture.gif" />
+
+- 💻 Expertise in **Data Engineering, Data Science and Analytics**
 
 - 👯 I’m looking to collaborate for **exciting new growth opportunities**
 
@@ -10,7 +12,7 @@
 
 - 📫 How to reach me **deoreswapnil@outlook.com**
 
-- 📄 Link to my Resume [[Click Here]](https://github.com/Swapppyy/Resume/blob/main/Swapnil_Deore_Resume.pdf)
+- 📄 [[Link to my Resume]](https://github.com/Swapppyy/Resume/blob/main/Swapnil_Deore_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
