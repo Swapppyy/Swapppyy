@@ -7,13 +7,12 @@
   <img src="https://raw.githubusercontent.com/Swapppyy/Swapppyy/main/picture.gif" alt="MasterHead" width="50%" height="300" />
 </div>
 
-<div style="text-align: center;">
-  <ul>
-    <li>💻 Expertise in <strong>Data Engineering, Data Science and Analytics</strong></li>
-    <li>📄 My Resume: <a href="https://github.com/Swapppyy/Resume/blob/main/Swapnil_Deore_Resume.pdf">Link</a></li>
-    <li>📫 My Email: <strong>deoreswapnil@outlook.com</strong></li>
-  </ul>
-</div>
+<h2>How to contact me!</h2>
+
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=email&logoColor=red)](mailto:deoreswapnil@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnildeore/)
+[![Tableau](https://img.shields.io/badge/Tableau-Public-orange?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/swapn1l/vizzes)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://swapppyy.github.io/)
 
 
 <h2>🚀 Languages and Tools I Use</h2>
