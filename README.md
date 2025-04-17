@@ -10,9 +10,9 @@
 <h2>How to contact me!</h2>
 
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=email&logoColor=red)](mailto:deoreswapnil@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnildeore/)
-[![Tableau](https://img.shields.io/badge/Tableau-Public-red?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/swapn1l/vizzes)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=yellow)](https://swapppyy.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnildeore/)
+[![Tableau](https://img.shields.io/badge/Tableau-red?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/swapn1l/vizzes)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://swapppyy.github.io/)
 
 
 <h2>🚀 Languages and Tools I Use</h2>
