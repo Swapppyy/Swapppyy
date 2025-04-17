@@ -4,7 +4,7 @@
 <p align="center">Full Stack Data Engineer building robust ETL pipelines</p>
 
 <div align="right">
-  <img src="https://raw.githubusercontent.com/Swapppyy/Swapppyy/main/picture.gif" alt="MasterHead" width="60%" height="300" />
+  <img src="https://raw.githubusercontent.com/Swapppyy/Swapppyy/main/picture.gif" alt="MasterHead" width="30%" height="200" />
 </div>
 
 - 💻 Expertise in **Data Engineering, Data Science and Analytics**
