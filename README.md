@@ -1,7 +1,7 @@
 ![MasterHead](https://drjplopes.com/media/BlogBanners/Hello-World_Banner.png)
 
-<h1>Hi 👋, I'm Swapnil</h1>
-<p>Full Stack Data Engineer building robust ETL pipelines</p>
+<h1 align="center">Hi 👋, I'm Swapnil</h1>
+<p align="center">Full Stack Data Engineer building robust ETL pipelines</p>
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/Swapppyy/Swapppyy/main/picture.gif" />
 
 - 💻 Expertise in **Data Engineering, Data Science and Analytics**
