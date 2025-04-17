@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Swapppyy/Swapppyy/main/picture.gif" alt="MasterHead" width="100%" height="500" />
+<img src="https://raw.githubusercontent.com/Swapppyy/Swapppyy/main/picture.gif" alt="MasterHead" width="70%" height="300" />
 
 <h1 align="center">Hi 👋, I'm Swapnil</h1>
 <p align="center">Full Stack Data Engineer building robust ETL pipelines</p>
