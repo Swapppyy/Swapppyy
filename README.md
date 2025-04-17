@@ -1,4 +1,4 @@
-![MasterHead](https://drjplopes.com/media/BlogBanners/Hello-World_Banner.png)
+![MasterHead](https://raw.githubusercontent.com/Swapppyy/Swapppyy/main/picture.gif)
 
 <h1 align="center">Hi 👋, I'm Swapnil</h1>
 <p align="center">Full Stack Data Engineer building robust ETL pipelines</p>
