@@ -32,23 +32,12 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-
-<a target="_blank" href="https://github.com/Swapppyy/swapppyy.github.io/blob/main/assets/img/skills/airflow.png" style="display: inline-block;"><img src="https://github.com/Swapppyy/swapppyy.github.io/blob/main/assets/img/skills/airflow.png" alt="azure" width="90" height="42" /></a>
-
-<a target="_blank" href="https://github.com/Swapppyy/swapppyy.github.io/blob/main/assets/img/skills/spark.png" style="display: inline-block;"><img src="https://github.com/Swapppyy/swapppyy.github.io/blob/main/assets/img/skills/spark.png" alt="azure" width="90" height="42" /></a>
-
-<a target="_blank" href="https://github.com/Swapppyy/swapppyy.github.io/blob/main/assets/img/skills/tb.png" style="display: inline-block;"><img src="https://github.com/Swapppyy/swapppyy.github.io/blob/main/assets/img/skills/tb.png" alt="azure" width="90" height="42" /></a>
-
-<a target="_blank" href="https://github.com/Swapppyy/swapppyy.github.io/blob/main/assets/img/skills/snowflake.png" style="display: inline-block;"><img src="https://github.com/Swapppyy/swapppyy.github.io/blob/main/assets/img/skills/snowflake.png" alt="azure" width="90" height="42" /></a>
-
-<a target="_blank" href="https://github.com/Swapppyy/swapppyy.github.io/blob/main/assets/img/skills/databricks.svg" style="display: inline-block;"><img src="https://github.com/Swapppyy/swapppyy.github.io/blob/main/assets/img/skills/databricks.svg" alt="azure" width="90" height="42" /></a>
-
-<a target="_blank" href="https://github.com/Swapppyy/swapppyy.github.io/blob/main/assets/img/skills/dbt.jpg" style="display: inline-block;"><img src="https://github.com/Swapppyy/swapppyy.github.io/blob/main/assets/img/skills/dbt.jpg" alt="azure" width="90" height="42" /></a>
-
-
-
-
-
+<a target="_blank" href="https://www.snowflake.com/" style="display: inline-block;">
+  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="42" height="42" />
+</a>
+<a target="_blank" href="https://www.databricks.com/" style="display: inline-block;">
+  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="42" height="42" />
+</a>
 <h2>⚡️ Where to find me</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnildeore/)
