@@ -53,6 +53,20 @@
 </a>
 
 
+<!-- Airflow -->
+<a target="_blank" href="https://airflow.apache.org/" style="display: inline-block;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="airflow" width="42" height="42" />
+</a>
+
+<!-- Tableau -->
+<a target="_blank" href="https://www.tableau.com/" style="display: inline-block;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="42" height="42" />
+</a>
+
+<!-- dbt -->
+<a target="_blank" href="https://www.getdbt.com/" style="display: inline-block;">
+  <img src="https://avatars.githubusercontent.com/u/35673471?s=200&v=4" alt="dbt" width="42" height="42" />
+</a>
 
 
 
