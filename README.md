@@ -32,6 +32,39 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+
+<a target="_blank" href="https://airflow.apache.org/" style="display: inline-block;">
+  <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="airflow" width="42" height="42" />
+</a>
+<a target="_blank" href="https://www.tableau.com/" style="display: inline-block;">
+  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="42" height="42" />
+</a>
+<a target="_blank" href="https://spark.apache.org/docs/latest/api/python/index.html" style="display: inline-block;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/512px-Apache_Spark_logo.svg.png" alt="pyspark" width="42" height="42" />
+</a>
+<a target="_blank" href="https://www.snowflake.com/" style="display: inline-block;">
+  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="42" height="42" />
+</a>
+<a target="_blank" href="https://www.databricks.com/" style="display: inline-block;">
+  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="42" height="42" />
+</a>
+<a target="_blank" href="https://www.getdbt.com/" style="display: inline-block;">
+  <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="42" height="42" />
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h2>⚡️ Where to find me</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnildeore/)
