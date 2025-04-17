@@ -37,9 +37,12 @@
 
 ## ⚡ Where to Find Me
 
-[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnildeore/)
-[![Tableau](https://img.shields.io/badge/📊%20Tableau-Public%20Profile-orange?style=flat&logo=tableau&logoColor=white&color=E97627)](https://public.tableau.com/app/profile/swapnil.deore)
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-informational?style=flat&logo=google-chrome&logoColor=white&color=0A66C2)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnildeore/)
+[![Tableau](https://img.shields.io/badge/Tableau-Public-orange?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/swapnil.deore)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+
+
+
 
 
 
