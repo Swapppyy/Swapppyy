@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Swapppyy/Swapppyy/main/picture.gif" alt="MasterHead" width="70%" height="300" />
+  <img src="https://raw.githubusercontent.com/Swapppyy/Swapppyy/main/picture.gif" alt="MasterHead" width="70%" height="400" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Swapnil</h1>
