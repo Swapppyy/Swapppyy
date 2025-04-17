@@ -13,6 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnildeore/)
 [![Tableau](https://img.shields.io/badge/Tableau-red?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/swapn1l/vizzes)
 [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://swapppyy.github.io/)
+[![Resume](https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=resume&logoColor=white)](https://github.com/Swapppyy/Resume/blob/main/Swapnil_Deore_Resume.pdf)
 
 
 <h2>🚀 Languages and Tools I Use</h2>
@@ -43,15 +44,5 @@
 <a target="_blank" href="https://www.databricks.com/" style="display: inline-block;">
   <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="42" height="42" />
 </a></p>
-
-<h2>⚡️ Where to find me</h2>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnildeore/)
-[![Tableau](https://img.shields.io/badge/Tableau-Public-orange?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/swapn1l/vizzes)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://swapppyy.github.io/)
-
-
-
-
 
 
