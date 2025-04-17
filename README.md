@@ -6,13 +6,15 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Swapppyy/Swapppyy/main/picture.gif" alt="MasterHead" width="50%" height="300" />
 </div>
-<p align="center">
-- 💻 Expertise in **Data Engineering, Data Science and Analytics**
 
-- 📄 My Resume: [Link](https://github.com/Swapppyy/Resume/blob/main/Swapnil_Deore_Resume.pdf)
+<div style="text-align: center;">
+  <ul>
+    <li>💻 Expertise in <strong>Data Engineering, Data Science and Analytics</strong></li>
+    <li>📄 My Resume: <a href="https://github.com/Swapppyy/Resume/blob/main/Swapnil_Deore_Resume.pdf">Link</a></li>
+    <li>📫 My Email: <strong>deoreswapnil@outlook.com</strong></li>
+  </ul>
+</div>
 
-- 📫 My Email: **deoreswapnil@outlook.com**
-</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
