@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Swapnil</h1>
-<p align="center">A results driven data engineer proficient in building ETL pipelines, Data Analysis and Visualization. I have experience working with tools such as Tableau, SQL, Python, Dbt, Airflow, Kafka, Docker, Snowflake and PySpark to develop impactful data engineering solutions, including real-time dashboards and scalable data pipelines to support data driven decision-making.</p>
+<p align="center">A results driven Data Engineer proficient in building scalable ETL pipelines, building ETL workflows, and developing robust data models and dashboards. I have professional experience working with tools such as Power BI, SQL, Python, Azure Data Factory, Databricks, Dbt and Spark. I am also proficient in backend development where i've used Django.</p>
 
 <h2>How to contact me!</h2>
 
