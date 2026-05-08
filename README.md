@@ -19,6 +19,6 @@ Currently, I work as a Data Analytics Developer II at UnitedHealth Group, where 
 [![Tableau](https://img.shields.io/badge/Tableau-red?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/swapnil.deore/vizzes)
 [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://swapppyy.github.io/)
 
-<h2>Languages and Tools I Use</h2>
+<h2>Languages and Tools i Use</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=anaconda,aws,azure,github,ai,kafka,mongodb,postgres,postman,py,vscode)](https://skillicons.dev)
